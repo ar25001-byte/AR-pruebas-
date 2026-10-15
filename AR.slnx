@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AR.StringManipulator.UnitTestAppxUnit/AR.StringManipulator.UnitTestAppxUnit.csproj" />
+  <Project Path="AR.StringManipulator/AR.StringManipulator.csproj" />
+  <Project Path="AR.Temperatura.UnitTestMSTest/AR.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="AR.Temperatura/AR.Temperatura.csproj" />
+</Solution>
